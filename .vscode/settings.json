@@ -1,0 +1,16 @@
+{
+    "python.pythonPath": "C:\\Users\\aakas\\Anaconda3\\envs\\untitled\\python.exe",
+    "python.formatting.provider": "yapf",
+    "python.unitTest.unittestArgs": [
+        "-v",
+        "-s",
+        ".",
+        "-p",
+        "test*.py"
+    ],
+    "python.unitTest.unittestEnabled": false,
+    "python.linting.enabled": true,
+    "python.unitTest.promptToConfigure": false,
+    "python.unitTest.pyTestEnabled": false,
+    "python.unitTest.nosetestsEnabled": false
+}
